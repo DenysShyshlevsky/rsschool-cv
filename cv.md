@@ -1,4 +1,4 @@
-[rsschool-cv](http://example.com/link "link")
+[rsschool-cv](https://denysshyshlevsky.github.io/rsschool-cv/)
 ---
 # Denys Shyshlevsky #
 ## Contact info ##
