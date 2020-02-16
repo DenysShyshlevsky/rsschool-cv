@@ -1,7 +1,6 @@
 [rsschool-cv](http://example.com/link "Я ссылка")
 ---
 # Denys Shyshlevsky #
----
 ## Contact info ##
 - Country: Ukraine
 - City: Sumy
