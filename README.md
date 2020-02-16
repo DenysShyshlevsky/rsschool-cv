@@ -1,1 +1,1 @@
-https://denysshyshlevsky.github.io/rsschool-cv/cv
+link: https://denysshyshlevsky.github.io/rsschool-cv/cv
